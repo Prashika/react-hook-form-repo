@@ -10,10 +10,12 @@
 - If npm: npm install react-hook-form
 - If yarn: yarn add react-hook-form
 
-### Using React Hooks in a form:
+### Register form data in react-hook-form:
+#### useForm Hook? :
 - import the useForm Hook from the react-hook-form package:
 - `import { useForm } from "react-hook-form";`
 
-- The useForm Hook returns an object containing a few properties.
-- useForm Hook makes the component code cleaner and easier to maintain, and 
-- because the form is uncontrolled, you do not have to pass props like onChange and value to each input.
+- The useForm Hook returns an object containing a few properties like: register, handlesubmit..etc
+- useForm Hook makes the component code cleaner and easier to maintain, and because the form is uncontrolled, you do not have to pass props like onChange and value to each input.
+
+### Validate forms with react-hook-form?
