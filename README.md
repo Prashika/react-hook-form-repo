@@ -13,3 +13,5 @@
 ### Using React Hooks in a form:
 - import the useForm Hook from the react-hook-form package:
 - `import { useForm } from "react-hook-form";`
+
+- The useForm Hook returns an object containing a few properties.
