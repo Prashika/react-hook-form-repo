@@ -15,3 +15,5 @@
 - `import { useForm } from "react-hook-form";`
 
 - The useForm Hook returns an object containing a few properties.
+- useForm Hook makes the component code cleaner and easier to maintain, and 
+- because the form is uncontrolled, you do not have to pass props like onChange and value to each input.
