@@ -34,8 +34,8 @@ In the project directory:
 
 ### `npx create-react-app react-hook-form-demo`
 
-## Code
-### Please refer `https://github.com/Prashika/react-hook-form-repo.git`
+## Source Code:
+### Please refer: [https://github.com/Prashika/react-hook-form-repo.git](https://github.com/Prashika/react-hook-form-repo.git)
 
 ## Available Scripts
 
